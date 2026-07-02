@@ -4,7 +4,11 @@ title: ""
 
 ## Getting Started
 
-Forthcoming.
+Please download the software specified on the [Overview](Overview.qmd) page as soon as possible. Because most of the practicum runs through GitHub, please create a GitHub account before the Day One practicum. If you plan to work in a browser-based GitHub Codespace rather than locally, please make sure your account is set up and ready ahead of time; if you plan to work locally, please install VS Code and Git as well. Please reach out if you need any help. 
+
+The course materials repository has both video and written tutorials available for getting set up with GitHub, VS Code, and the AI coding assistant, and we highly recommend that both be viewed. We will also walk through the setup and Activity 1 (Data Cleaning) together during the lab on Day One of the module.
+
+The [Additional Resources](additionaDetails.qmd) page contains tutorials on how to create a GitHub account and launch a Codespace, set up VS Code and the AI coding assistant, download both R and RStudio, and download packages in R. 
 
 ## Day One - Slides
 
