@@ -39,6 +39,7 @@ Students planning to use GitHub Copilot should complete the registration process
 Students without GitHub Education access may use the free version of GitHub Copilot, which includes usage limitations. The GitHub Copilot Pro plan is recommended for this module and includes a free trial period for eligible users. Additional details regarding software installation and configuration will be provided in the module setup materials.
 
 ## Module Content
+
 -   Overview of infectious disease forecasting and its role in public health decision-making
 -   Foundations of AI and human-AI teaming, including when to use which AI tools for a given task
 -   Introduction to GitHub and VS Code for reproducible, collaborative forecasting workflows
@@ -73,37 +74,30 @@ Dr. Amanda Bleichrodt is a postdoctoral fellow in the Center for Public Health M
 
 ## Schedule
 
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| Time                   | Day 1                            | Day 2                              | Day 3                                  |
-+:=======================+:=================================+:===================================+:=======================================+
-| 9:00 - 10:30 am        | [\-]{.tcenter}                   | Activity 1 Recap                   | **Lecture 4:** Overview of Model       |
-|                        |                                  |                                    | Evaluation                             |
-|                        |                                  | **Lecture 3:** Prompting           |                                        |
-|                        |                                  |                                    |                                        |
-|                        |                                  | **Activity 2:** Interactive        |                                        |
-|                        |                                  | Activity & `rules.md` Files        |                                        |
-|                        |                                  | *(begins)*                         |                                        |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 10:30 - 11:00 am       | [*-*]{.tcenter}                  | *Break*                            | *Break*                                |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 11:00 - 12:30 pm       | [\-]{.tcenter}                   | **Activity 2:** Interactive        | **Activity 4:** Model Evaluation       |
-|                        |                                  | Activity & `rules.md` Files        |                                        |
-|                        |                                  | *(continued)*                      |                                        |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 12:30 - 1:30 pm        | [*-*]{.tcenter}                  | *Lunch Break*                      | *Lunch Break*                          |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 1:30 - 3:00 pm         | Introductions                    | **Lab Lecture 2:** Forecasting     | **Lecture 5:** AI/HAT Evaluation &     |
-|                        |                                  |                                    | Working with AI for Refinement         |
-|                        | **Lecture 1:** Overview of       | **Activity 3:** Forecasting Lab    |                                        |
-|                        | Forecasting                      |                                    | **Activity 5:** Refining Models        |
-|                        |                                  |                                    |                                        |
-|                        | **Lecture 2:** Introduction to   |                                    |                                        |
-|                        | AI and Human-AI Teaming          |                                    |                                        |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 3:00 - 3:30 pm         | *Break*                          | *Break*                            | *Break*                                |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
-| 3:30 - 5:00 pm         | **Lab Lecture 1:** Introduction  | **Activity 3:** Forecasting Lab    | Free-Coding, Questions & Wrap-Up       |
-|                        | to GitHub, VS Code & Set Up      | *(continued)*                      |                                        |
-|                        |                                  |                                    |                                        |
-|                        | **Activity 1:** Data Cleaning    |                                    |                                        |
-+------------------------+----------------------------------+------------------------------------+----------------------------------------+
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| Time             | Day 1                                                         | Day 2                                                                 | Day 3                                                             |
++:=================+:==============================================================+:======================================================================+:==================================================================+
+| 9:00 - 10:30 am  | [-]{.tcenter}                                                 | Activity 1 Recap                                                      | **Lecture 4:** Overview of Model Evaluation                       |
+|                  |                                                               |                                                                       |                                                                   |
+|                  |                                                               | **Lecture 4:** Prompting                                              |                                                                   |
+|                  |                                                               |                                                                       |                                                                   |
+|                  |                                                               | **Activity 2:** Interactive Activity & `rules.md` Files *(begins)*    |                                                                   |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 10:30 - 11:00 am | [*-*]{.tcenter}                                               | *Break*                                                               | *Break*                                                           |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 11:00 - 12:30 pm | [-]{.tcenter}                                                 | **Activity 2:** Interactive Activity & `rules.md` Files *(continued)* | **Activity 4:** Model Evaluation                                  |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 12:30 - 1:30 pm  | [*-*]{.tcenter}                                               | *Lunch Break*                                                         | *Lunch Break*                                                     |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 1:30 - 3:00 pm   | Introductions                                                 | **Lecture 5 (Lab):** Forecasting                                      | **Lecture 5:** AI/HAT Evaluation & Working with AI for Refinement |
+|                  |                                                               |                                                                       |                                                                   |
+|                  | **Lecture 1:** Overview of Forecasting                        | **Activity 3:** Forecasting Lab                                       | **Activity 5:** Refining Models                                   |
+|                  |                                                               |                                                                       |                                                                   |
+|                  | **Lecture 2:** Introduction to AI and Human-AI Teaming        |                                                                       |                                                                   |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 3:00 - 3:30 pm   | *Break*                                                       | *Break*                                                               | *Break*                                                           |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
+| 3:30 - 5:00 pm   | **Lecture 3 (Lab):** Introduction to GitHub, VS Code & Set Up | **Activity 3:** Forecasting Lab *(continued)*                         | Free-Coding, Questions & Wrap-Up                                  |
+|                  |                                                               |                                                                       |                                                                   |
+|                  | **Activity 1:** Data Cleaning                                 |                                                                       |                                                                   |
++------------------+---------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------+
