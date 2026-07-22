@@ -42,7 +42,7 @@ By the end of today you will be able to:
 
 5.  Introduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory
 
-    - Slides: [Intro to VS Code](Powerpoints/Introduction to VS Code.pdf){download="Introduction to VS Code.pdf"}
+    - Slides: [Intro to VS Code](Powerpoints/Intro-Vs-Code.pdf){download="Intro-Vs-Code.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
 6. Activity 1: Data Cleaning and Visuals
