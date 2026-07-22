@@ -28,7 +28,7 @@ By the end of today you will be able to:
 
 2.  Lecture 2: Introduction to AI and Human-AI Teaming
 
-    - Slides:
+    - Slides: [Introduction to AI and Human-AI Teaming](Powerpoints/01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf){download="01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf"}
 
 3.  Lab overview and Orientation
 
