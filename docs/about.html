@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>about – SISMID: Human-AI Teaming</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-36055dde38e1c66a85944b0e21486264.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d390f6b1bb233dafbd59a397b5af9ca7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -102,8 +105,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Additional Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./activity1.html"> 
-<span class="menu-text">Activity</span></a>
+    <a class="nav-link" href="./day1.html"> 
+<span class="menu-text">Day 1 Materials</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -142,7 +145,41 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="day-one---slides" class="level2">
 <h2 class="anchored" data-anchor-id="day-one---slides">Day One - Slides</h2>
-<p>Forthcoming.</p>
+<ol type="1">
+<li><p>Introductions &amp; Lecture 1 (Overview of Forecasting - Link to Slides)</p>
+<ul>
+<li>Slides:</li>
+</ul></li>
+<li><p>Lecture 2: Introduction to AI and Human-AI Teaming</p>
+<ul>
+<li>Slides:</li>
+</ul></li>
+<li><p>Lab overview and Orientation</p>
+<ul>
+<li>Slides: <a href="Powerpoints/Lab Overview.pdf" download="Lab Overview.pdf">Lab Overview</a></li>
+<li>GitHub: <a href="https://github.com/bleicham/SISMID-2026">SISMID GitHub</a></li>
+</ul></li>
+<li><p>Introduction to GitHub, including forking the course repository</p>
+<ul>
+<li>Slides: <a href="Powerpoints/Intro to GitHub.pdf" download="Intro to GitHub.pdf">Intro to GitHub</a></li>
+<li>GitHub: <a href="https://github.com/bleicham/SISMID-2026">SISMID GitHub</a></li>
+</ul></li>
+<li><p>Introduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory</p>
+<ul>
+<li>Slides: <a href="Powerpoints/Intro-Vs-Code.pdf" download="Intro-Vs-Code.pdf">Intro to VS Code</a></li>
+<li>GitHub: <a href="https://github.com/bleicham/SISMID-2026">SISMID GitHub</a></li>
+</ul></li>
+<li><p>Activity 1: Data Cleaning and Visuals</p>
+<ul>
+<li>Slides: <a href="Powerpoints/01_cleaning.pdf" download="01_cleaning.pdf">Activity 1: Data Cleaning and Visuals</a></li>
+<li>GitHub: <a href="https://github.com/bleicham/SISMID-2026">SISMID GitHub</a></li>
+</ul></li>
+<li><p>GitHub commits and pull requests</p>
+<ul>
+<li>Slides: <a href="Powerpoints/GitHub Commits &amp; Pull Requests.pdf" download="GitHub Commits &amp; Pull Requests.pdf">GitHub Commits &amp; Pull Requests</a></li>
+<li>GitHub: <a href="https://github.com/bleicham/SISMID-2026">SISMID GitHub</a></li>
+</ul></li>
+</ol>
 </section>
 <section id="day-two-three---materials" class="level2">
 <h2 class="anchored" data-anchor-id="day-two-three---materials">Day Two &amp; Three - Materials</h2>
@@ -207,13 +244,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
