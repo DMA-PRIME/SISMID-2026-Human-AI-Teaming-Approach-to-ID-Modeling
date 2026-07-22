@@ -18,7 +18,7 @@ website:
       - href: additionaDetails.qmd
         text: Additional Resources
       - href: day1.qmd
-        text: Day 1
+        text: Day 1 Materials
 
 format:
   html:
@@ -27,3 +27,4 @@ format:
     toc: true
 
 editor: visual
+
