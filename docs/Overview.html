@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>overview – SISMID: Human-AI Teaming</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -39,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d390f6b1bb233dafbd59a397b5af9ca7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-36055dde38e1c66a85944b0e21486264.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -154,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Thursday July 23, 9:00 AM – 5:00 PM</li>
 <li>Friday July 24, 9:00 AM – 5:00 PM</li>
 </ul>
-<p>Classroom: TBA</p>
+<p>Classroom: Randall Rollins Building 205 (RRR 205)</p>
 </section>
 <section id="module-summary" class="level2">
 <h2 class="anchored" data-anchor-id="module-summary">Module Summary</h2>
@@ -174,13 +171,25 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Create a GitHub account if you do not already have one.</p></li>
 <li><p>Obtain access to GitHub Copilot.</p></li>
 </ul>
-<p>Students planning to use GitHub Copilot should complete the registration process at least 72 hours before the module to allow sufficient time for account verification and activation. Students with a valid <code>.edu</code> email address are encouraged to apply for the GitHub Education Program, which includes access to GitHub Copilot benefits. Additional information can be found through <a href="https://github.com/education?utm_source=chatgpt.com">GitHub Education</a>.</p>
+<p>Students planning to use GitHub Copilot should complete the registration process at least 72 hours before the module to allow sufficient time for account verification and activation. Students with a valid <code>.edu</code> email address are encouraged to apply for the GitHub Education Program, which includes access to GitHub Copilot benefits. Additional information can be found through <a href="https://github.com/education">GitHub Education</a>.</p>
 <p>Students without GitHub Education access may use the free version of GitHub Copilot, which includes usage limitations. The GitHub Copilot Pro plan is recommended for this module and includes a free trial period for eligible users. Additional details regarding software installation and configuration will be provided in the module setup materials.</p>
 </section>
 </section>
 <section id="module-content" class="level2">
 <h2 class="anchored" data-anchor-id="module-content">Module Content</h2>
-<p>Forthcoming.</p>
+<ul>
+<li>Overview of infectious disease forecasting and its role in public health decision-making</li>
+<li>Foundations of AI and human-AI teaming, including when to use which AI tools for a given task</li>
+<li>Introduction to GitHub and VS Code for reproducible, collaborative forecasting workflows</li>
+<li>Data cleaning and preparation of surveillance data for forecasting</li>
+<li>Effective prompting for AI-assisted coding and analysis</li>
+<li>Using rules.md files to guide and constrain AI collaborators</li>
+<li>Hands-on forecasting labs: fitting models and generating forecasts</li>
+<li>Overview of forecast model evaluation</li>
+<li>Assessing forecast calibration and performance in practice</li>
+<li>AI and human-AI teaming evaluation, with iterative model refinement using AI</li>
+<li>Independent free-coding, questions, and wrap-up</li>
+</ul>
 </section>
 <section id="instructors" class="level2">
 <h2 class="anchored" data-anchor-id="instructors">Instructors</h2>
@@ -196,63 +205,76 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ta-amanda-bleichrodt-phd" class="level3">
 <h3 class="anchored" data-anchor-id="ta-amanda-bleichrodt-phd">TA: Amanda Bleichrodt, PhD</h3>
-<p>Forthcoming.</p>
+<p>Dr.&nbsp;Amanda Bleichrodt is a postdoctoral fellow in the Center for Public Health Modeling and Response, specializing in infectious disease modeling and forecasting. She received her Master of Public Health from The Ohio State University, and a doctorate from Georgia State University in population health Sciences with a concentration in epidemiology. Her research interests include refining and applying various statistical and mathematical modeling toolkits for forecasting disease outbreaks and developing user-friendly forecasting tools.</p>
 <p><strong>Email:</strong> ambleic@clemson.edu</p>
 </section>
 </section>
 <section id="schedule" class="level2">
 <h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 25%">
+<col style="width: 26%">
+<col style="width: 29%">
+</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: center;">Time</th>
-<th style="text-align: center;">Day 1</th>
-<th style="text-align: center;">Day 2</th>
-<th style="text-align: center;">Day 3</th>
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Day 1</th>
+<th style="text-align: left;">Day 2</th>
+<th style="text-align: left;">Day 3</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">9:00 - 10:30 am</td>
-<td style="text-align: center;">-</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
+<td style="text-align: left;">9:00 - 10:30 am</td>
+<td style="text-align: left;"><span class="tcenter">-</span></td>
+<td style="text-align: left;"><p>Activity 1 Recap</p>
+<p><strong>Lecture 3:</strong> Prompting</p>
+<p><strong>Activity 2:</strong> Interactive Activity &amp; <code>rules.md</code> Files <em>(begins)</em></p></td>
+<td style="text-align: left;"><strong>Lecture 4:</strong> Overview of Model Evaluation</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">10:30 - 11:00 am</td>
-<td style="text-align: center;"><em>-</em></td>
-<td style="text-align: center;"><em>Break</em></td>
-<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: left;">10:30 - 11:00 am</td>
+<td style="text-align: left;"><span class="tcenter"><em>-</em></span></td>
+<td style="text-align: left;"><em>Break</em></td>
+<td style="text-align: left;"><em>Break</em></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">11:00 - 12:30 am</td>
-<td style="text-align: center;">-</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
+<td style="text-align: left;">11:00 - 12:30 pm</td>
+<td style="text-align: left;"><span class="tcenter">-</span></td>
+<td style="text-align: left;"><strong>Activity 2:</strong> Interactive Activity &amp; <code>rules.md</code> Files <em>(continued)</em></td>
+<td style="text-align: left;"><strong>Activity 4:</strong> Model Evaluation</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">12:30 - 1:30 pm</td>
-<td style="text-align: center;"><em>-</em></td>
-<td style="text-align: center;"><em>Lunch Break</em></td>
-<td style="text-align: center;"><em>Lunch Break</em></td>
+<td style="text-align: left;">12:30 - 1:30 pm</td>
+<td style="text-align: left;"><span class="tcenter"><em>-</em></span></td>
+<td style="text-align: left;"><em>Lunch Break</em></td>
+<td style="text-align: left;"><em>Lunch Break</em></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">1:30 - 3:00 pm</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
+<td style="text-align: left;">1:30 - 3:00 pm</td>
+<td style="text-align: left;"><p>Introductions</p>
+<p><strong>Lecture 1:</strong> Overview of Forecasting</p>
+<p><strong>Lecture 2:</strong> Introduction to AI and Human-AI Teaming</p></td>
+<td style="text-align: left;"><p><strong>Lab Lecture 2:</strong> Forecasting</p>
+<p><strong>Activity 3:</strong> Forecasting Lab</p></td>
+<td style="text-align: left;"><p><strong>Lecture 5:</strong> AI/HAT Evaluation &amp; Working with AI for Refinement</p>
+<p><strong>Activity 5:</strong> Refining Models</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">3:00 - 3:30 pm</td>
-<td style="text-align: center;"><em>Break</em></td>
-<td style="text-align: center;"><em>Break</em></td>
-<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: left;">3:00 - 3:30 pm</td>
+<td style="text-align: left;"><em>Break</em></td>
+<td style="text-align: left;"><em>Break</em></td>
+<td style="text-align: left;"><em>Break</em></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">3:30 - 5:00 pm</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
-<td style="text-align: center;">Forthcoming.</td>
+<td style="text-align: left;">3:30 - 5:00 pm</td>
+<td style="text-align: left;"><p><strong>Lab Lecture 1:</strong> Introduction to GitHub, VS Code &amp; Set Up</p>
+<p><strong>Activity 1:</strong> Data Cleaning</p></td>
+<td style="text-align: left;"><strong>Activity 3:</strong> Forecasting Lab <em>(continued)</em></td>
+<td style="text-align: left;">Free-Coding, Questions &amp; Wrap-Up</td>
 </tr>
 </tbody>
 </table>
@@ -312,14 +334,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
