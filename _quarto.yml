@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 project:
   type: website
   output-dir: docs 
@@ -27,3 +28,35 @@ format:
     toc: true
 
 editor: visual
+=======
+project:
+  type: website
+  output-dir: docs 
+  render:
+    - "*.qmd"
+
+execute:
+  echo: false
+
+website:
+  title: "SISMID: Human-AI Teaming"
+  navbar:
+    left:
+      - href: Overview.qmd
+        text: Overview
+      - href: about.qmd
+        text: Preparation
+      - href: additionaDetails.qmd
+        text: Additional Resources
+      - href: activity1.qmd
+        text: Activity 
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
+>>>>>>> cce15b83de1a8841477f4853e65dc885a1bc85f1

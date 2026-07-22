@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: ""
 ---
@@ -55,3 +56,62 @@ The above two links contains multiple tutorials related to various aspects of RS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mAFoROnOfHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
+=======
+---
+title: ""
+---
+
+## Software Resources
+
+### R & RStudio
+
+**Link to download R:** [CRAN-R](https://cran.r-project.org/)
+
+**Link to download RStudio:** [Posit](https://posit.co/download/rstudio-desktop/)
+
+**RStudio Tutorial(s):** [Code Recipes](https://posit.cloud/learn/recipes?_gl=1*1q88cu3*_ga*MTE1NDU3OTExMS4xNzIxMDUzMTEw*_ga%202C0WZ1JHG0*MTcyMTA1MzExMC4zLjEuMTcyMTA1MzEyNS4wLjAuMA.)
+
+**RStudio Cheatsheets:** [Cheatsheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html)
+
+The above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.
+
+**R Basics Tutorial Video**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FY8BISK5DpM?si=EBo6GnQmHMVJ7i9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+### VS Code
+
+**Link to download VS Code:** [Visual Studio Code](https://code.visualstudio.com/download)
+
+**Getting Started Tutorial:** [VS Code Docs – Get Started](https://code.visualstudio.com/docs/editing/getting-started)
+
+**VS Code Documentation:** [Docs](https://code.visualstudio.com/docs)
+
+**Keyboard Shortcut Cheatsheets:** [Windows (PDF)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) \| [All platforms & keybindings](https://code.visualstudio.com/docs/configure/keybindings) The documentation and keybindings pages cover everything from first setup and the command palette to extensions, the integrated terminal, and per-platform shortcut references.
+
+**VS Code Basics Tutorial Video**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8_uF_IDV50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+### GitHub
+
+**Link to create a GitHub account:** [GitHub Sign Up](https://github.com/signup)
+
+**Link to download Git:** [git-scm](https://git-scm.com/downloads)
+
+**Link to download GitHub Desktop (optional):** [GitHub Desktop](https://desktop.github.com/download/)
+
+**GitHub Tutorial(s):** [GitHub Skills](https://skills.github.com/) \| [Get Started Guide](https://docs.github.com/en/get-started)
+
+**Git & GitHub Cheatsheets:** [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf) \| [Cheat sheets in multiple languages](https://training.github.com/downloads/github-git-cheat-sheet/) GitHub Skills offers hands-on interactive courses (including the fork → branch → commit → pull request workflow), while the Get Started docs walk through account setup, repositories, and the "Hello World" basics.
+
+**Git & GitHub Basics Tutorial Video**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAFoROnOfHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+>>>>>>> cce15b83de1a8841477f4853e65dc885a1bc85f1
