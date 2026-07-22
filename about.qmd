@@ -14,7 +14,7 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
 
 1.  Introductions & Lecture 1 (Overview of Forecasting - Link to Slides)
 
-    - Slides:
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
 
 2.  Lecture 2: Introduction to AI and Human-AI Teaming
 
@@ -22,12 +22,12 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
 
 3.  Lab overview and Orientation
 
-    - Slides: [Lab Overview](Powerpoints/Lab Overview.pdf){download="Lab Overview.pdf"}
+    - Slides: [Lab Overview](Powerpoints/Lab%20Overview.pdf){download="Lab Overview.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
 4.  Introduction to GitHub, including forking the course repository
 
-    - Slides: [Intro to GitHub](Powerpoints/Intro to GitHub.pdf){download="Intro to GitHub.pdf"}
+    - Slides: [Intro to GitHub](Powerpoints/Intro%20to%20GitHub.pdf){download="Intro to GitHub.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
 5.  Introduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory
@@ -35,16 +35,15 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
     - Slides: [Intro to VS Code](Powerpoints/Intro-Vs-Code.pdf){download="Intro-Vs-Code.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
-6. Activity 1: Data Cleaning and Visuals
+6.  Activity 1: Data Cleaning and Visuals
 
     - Slides: [Activity 1: Data Cleaning and Visuals](Powerpoints/01_cleaning.pdf){download="01_cleaning.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
-    
+
 7.  GitHub commits and pull requests
 
-    - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub Commits & Pull Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
+    - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub%20Commits%20&%20Pull%20Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
-
 
 ## Day Two & Three - Materials
 

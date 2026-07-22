@@ -22,9 +22,9 @@ By the end of today you will be able to:
 
 ## Today's flow
 
-1.  Introductions & Lecture 1 (Overview of Forecasting - Link to Slides)
+1.  Introductions & Lecture 1 (Overview of Forecasting)
 
-    - Slides:
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
 
 2.  Lecture 2: Introduction to AI and Human-AI Teaming
 
@@ -45,11 +45,11 @@ By the end of today you will be able to:
     - Slides: [Intro to VS Code](Powerpoints/Intro-Vs-Code.pdf){download="Intro-Vs-Code.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
-6. Activity 1: Data Cleaning and Visuals
+6.  Activity 1: Data Cleaning and Visuals
 
     - Slides: [Activity 1: Data Cleaning and Visuals](Powerpoints/01_cleaning.pdf){download="01_cleaning.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
-    
+
 7.  GitHub commits and pull requests
 
     - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub Commits & Pull Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
