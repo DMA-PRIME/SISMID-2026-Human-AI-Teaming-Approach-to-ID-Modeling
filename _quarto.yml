@@ -19,6 +19,8 @@ website:
         text: Additional Resources
       - href: day1.qmd
         text: Day 1 Materials
+      - href: day2.qmd
+        text: Day 2 Materials
 
 format:
   html:

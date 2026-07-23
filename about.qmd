@@ -12,7 +12,7 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
 
 ## Day One - Slides
 
-1.  Introductions & Lecture 1 (Overview of Forecasting - Link to Slides)
+1.  Introductions & Lecture 1: Overview of Forecasting
 
     - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
 
@@ -45,10 +45,45 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
     - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub%20Commits%20&%20Pull%20Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 
-## Day Two & Three - Materials
+## Day Two - Slides 
 
-Forthcoming.
+1.  Introduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory
 
-## Readings and Additional Slides
+    - Slides: [Intro to VS Code](Powerpoints/Intro-Vs-Code.pdf){download="Intro-Vs-Code.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+2.  Activity 1: Data Cleaning and Visuals
+
+    - Slides: [Activity 1: Data Cleaning and Visuals](Powerpoints/01_cleaning.pdf){download="01_cleaning.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+3.  GitHub commits and pull requests
+
+    - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub%20Commits%20&%20Pull%20Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+4.  Lecture 2 (Continued): Introduction to AI and Human-AI Teaming
+
+    - Slides: [Introduction to AI and Human-AI Teaming](Powerpoints/01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf){download="01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf"}
+    
+5.  Lecture 3: Prompting for AI Assisted Coding and Analysis 
+
+    - Slides: [Prompting for AI Assisted Coding and Analysis ](Powerpoints/02_Prompting_for_AI_Assisted_Coding_and_Analysis_McNeese.pdf){download="02_Prompting_for_AI_Assisted_Coding_and_Analysis_McNeese.pdf"}
+    
+6.  Activity 2: Data Exploration
+
+    - Slides: [Activity 2: Data Exploration](Powerpoints/02_data explore.pdf){download="02_data_explore.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+    
+7.  Lecture 1 (Continued): Overview of Forecasting
+
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}    
+    
+8.  Activity 3: Forecasting
+
+    - Slides: [Activity 3: Forecasting](Powerpoints/03_forecast.pdf){download="03_forecast.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)    
+
+## Additional Slides
 
 Forthcoming.

@@ -1,0 +1,84 @@
+---
+title: ""
+---
+
+## Welcome back
+
+Today we finish the setup work from Day 1, then move from cleaning data to
+exploring it and producing our first forecasts.
+
+The middle of the day is about prompting: how you ask shapes what you get back.
+By the afternoon you will be getting your first forecasts!
+
+## What today covers
+
+By the end of today you will be able to:
+
+- Finish your VS Code, Copilot, and working directory setup
+- Produce a cleaned dataset and epicurve, then commit them and open a pull request
+- Explain what makes a prompt effective for AI assisted coding and analysis
+- Explore the cleaned data and generate summary visuals through your agent
+- Build and run a forecasting script, and interpret what it produces
+
+## Today's flow
+
+1.  Introduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory
+
+    - Slides: [Intro to VS Code](Powerpoints/Intro-Vs-Code.pdf){download="Intro-Vs-Code.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+2.  Activity 1: Data Cleaning and Visuals
+
+    - Slides: [Activity 1: Data Cleaning and Visuals](Powerpoints/01_cleaning.pdf){download="01_cleaning.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+3.  GitHub commits and pull requests
+
+    - Slides: [GitHub Commits & Pull Requests](Powerpoints/GitHub%20Commits%20&%20Pull%20Requests.pdf){download="GitHub Commits & Pull Requests.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
+4.  Lecture 2 (Continued): Introduction to AI and Human-AI Teaming
+
+    - Slides: [Introduction to AI and Human-AI Teaming](Powerpoints/01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf){download="01_Introduction_to_AI_and_Human_AI_Teaming_McNeese_Final.pdf"}
+    
+5.  Lecture 3: Prompting for AI Assisted Coding and Analysis 
+
+    - Slides: [Prompting for AI Assisted Coding and Analysis ](Powerpoints/02_Prompting_for_AI_Assisted_Coding_and_Analysis_McNeese.pdf){download="02_Prompting_for_AI_Assisted_Coding_and_Analysis_McNeese.pdf"}
+    
+6.  Activity 2: Data Exploration
+
+    - Slides: [Activity 2: Data Exploration](Powerpoints/02_data explore.pdf){download="02_data_explore.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+    
+7.  Lecture 1 (Continued): Overview of Forecasting
+
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}    
+    
+8.  Activity 3: Forecasting
+
+    - Slides: [Activity 3: Forecasting](Powerpoints/03_forecast.pdf){download="03_forecast.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)  
+    
+## Where we are in the pipeline
+
+- Activity 1: Data Cleaning and Visuals (finishing today)
+- Activity 2: Data Exploration (today)
+- Activity 3: Modeling and Forecasting (today)
+- Activity 4: Evaluation
+- Activity 5: Refinement
+
+By the end of today you will have moved from raw CDC data to actual forecasts.
+Tomorrow is about judging whether those forecasts are any good and improving
+them.
+
+## Resources
+
+- Course repository: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+- Day 1 page: [Day 1: Getting Started](day-01.qmd)
+- Course website (slides): [Course Website](https://dma-prime.github.io/SISMID-2026-Human-AI-Teaming-Approach-to-ID-Modeling/Overview.html)
+
+## Getting help
+
+- Ask a TA during activity blocks
+- Post in the course Slack channel
+- If your setup is still fighting you, flag it now rather than losing modeling time this afternoon
