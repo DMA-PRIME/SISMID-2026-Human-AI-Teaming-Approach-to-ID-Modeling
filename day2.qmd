@@ -74,7 +74,7 @@ them.
 ## Resources
 
 - Course repository: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
-- Day 1 page: [Day 1: Getting Started](day-01.qmd)
+- Day 1 page: [Day 1: Getting Started](day1.qmd)
 - Course website (slides): [Course Website](https://dma-prime.github.io/SISMID-2026-Human-AI-Teaming-Approach-to-ID-Modeling/Overview.html)
 
 ## Getting help
