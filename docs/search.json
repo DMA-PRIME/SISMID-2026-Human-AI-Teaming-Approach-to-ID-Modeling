@@ -32,7 +32,7 @@
     "href": "about.html#day-one---slides",
     "title": "SISMID: Human-AI Teaming",
     "section": "Day One - Slides",
-    "text": "Day One - Slides\n\nIntroductions & Lecture 1 (Overview of Forecasting - Link to Slides)\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
+    "text": "Day One - Slides\n\nIntroductions & Lecture 1: Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
   },
   {
     "objectID": "about.html#day-two-three---materials",
@@ -180,5 +180,68 @@
     "title": "SISMID: Human-AI Teaming",
     "section": "Today’s flow",
     "text": "Today’s flow\n\nIntroductions & Lecture 1 (Overview of Forecasting)\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "about.html#day-two---slides",
+    "href": "about.html#day-two---slides",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Day Two - Slides",
+    "text": "Day Two - Slides\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub\n\nLecture 2 (Continued): Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLecture 3: Prompting for AI Assisted Coding and Analysis\n\nSlides: Prompting for AI Assisted Coding and Analysis\n\nActivity 2: Data Exploration\n\nSlides: Activity 2: Data Exploration\nGitHub: SISMID GitHub\n\nLecture 1 (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity 3: Forecasting\n\nSlides: Activity 3: Forecasting\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "about.html#additional-slides",
+    "href": "about.html#additional-slides",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Additional Slides",
+    "text": "Additional Slides\nForthcoming."
+  },
+  {
+    "objectID": "day2.html",
+    "href": "day2.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Today we finish the setup work from Day 1, then move from cleaning data to exploring it and producing our first forecasts.\nThe middle of the day is about prompting: how you ask shapes what you get back. By the afternoon you will be getting your first forecasts!"
+  },
+  {
+    "objectID": "day2.html#welcome-back",
+    "href": "day2.html#welcome-back",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Today we finish the setup work from Day 1, then move from cleaning data to exploring it and producing our first forecasts.\nThe middle of the day is about prompting: how you ask shapes what you get back. By the afternoon you will be getting your first forecasts!"
+  },
+  {
+    "objectID": "day2.html#what-today-covers",
+    "href": "day2.html#what-today-covers",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "What today covers",
+    "text": "What today covers\nBy the end of today you will be able to:\n\nFinish your VS Code, Copilot, and working directory setup\nProduce a cleaned dataset and epicurve, then commit them and open a pull request\nExplain what makes a prompt effective for AI assisted coding and analysis\nExplore the cleaned data and generate summary visuals through your agent\nBuild and run a forecasting script, and interpret what it produces"
+  },
+  {
+    "objectID": "day2.html#todays-flow",
+    "href": "day2.html#todays-flow",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Today’s flow",
+    "text": "Today’s flow\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub\n\nLecture 2 (Continued): Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLecture 3: Prompting for AI Assisted Coding and Analysis\n\nSlides: Prompting for AI Assisted Coding and Analysis\n\nActivity 2: Data Exploration\n\nSlides: Activity 2: Data Exploration\nGitHub: SISMID GitHub\n\nLecture 1 (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity 3: Forecasting\n\nSlides: Activity 3: Forecasting\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "day2.html#where-we-are-in-the-pipeline",
+    "href": "day2.html#where-we-are-in-the-pipeline",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Where we are in the pipeline",
+    "text": "Where we are in the pipeline\n\nActivity 1: Data Cleaning and Visuals (finishing today)\nActivity 2: Data Exploration (today)\nActivity 3: Modeling and Forecasting (today)\nActivity 4: Evaluation\nActivity 5: Refinement\n\nBy the end of today you will have moved from raw CDC data to actual forecasts. Tomorrow is about judging whether those forecasts are any good and improving them."
+  },
+  {
+    "objectID": "day2.html#resources",
+    "href": "day2.html#resources",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Resources",
+    "text": "Resources\n\nCourse repository: SISMID GitHub\nDay 1 page: Day 1: Getting Started\nCourse website (slides): Course Website"
+  },
+  {
+    "objectID": "day2.html#getting-help",
+    "href": "day2.html#getting-help",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Getting help",
+    "text": "Getting help\n\nAsk a TA during activity blocks\nPost in the course Slack channel\nIf your setup is still fighting you, flag it now rather than losing modeling time this afternoon"
   }
 ]
