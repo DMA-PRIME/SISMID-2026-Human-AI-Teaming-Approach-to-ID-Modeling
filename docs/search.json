@@ -1,5 +1,208 @@
 [
   {
+    "objectID": "day3.html",
+    "href": "day3.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Today we dive into the wonderful world of evaluation and model refinement. We will cover various types of evaluation, ranging from AI outputs to forecasts, and by the end of today we will each have unique models to submit to our mini forecasting challenge."
+  },
+  {
+    "objectID": "day3.html#welcome",
+    "href": "day3.html#welcome",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Today we dive into the wonderful world of evaluation and model refinement. We will cover various types of evaluation, ranging from AI outputs to forecasts, and by the end of today we will each have unique models to submit to our mini forecasting challenge."
+  },
+  {
+    "objectID": "day3.html#what-today-covers",
+    "href": "day3.html#what-today-covers",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "What today covers",
+    "text": "What today covers\nBy the end of today you will be able to:\n\nInterpret the core forecast metrics: MAE, 95% PI coverage, interval score, and WIS\nScore your forecasts with the scoringutils package rather than hand-coding the formulas\nJudge whether an AI output is correct, supported, and appropriate before you rely on it\nRevise AI output deliberately by naming the failing component instead of asking for a new answer\nRefine your model with a leading indicator or a different model type, and decide from evidence whether to keep the change\nProduce FluSight-format forecasts and submit them to the class challenge"
+  },
+  {
+    "objectID": "day3.html#todays-flow",
+    "href": "day3.html#todays-flow",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Today’s flow",
+    "text": "Today’s flow\n\nLecture (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity: Evaluation\n\nSlides: Activity: Evaluation\nGitHub: SISMID GitHub\n\nLecture: Evaluating and Refining AI Outputs\n\nSlides: Evaluating and Refining AI Outputs\n\nActivity: Refinement\n\nSlides: Activity: Refinement\nGitHub: SISMID GitHub\n\nFree coding, mini forecasting challenge, and questions"
+  },
+  {
+    "objectID": "day3.html#where-we-are-in-the-pipeline",
+    "href": "day3.html#where-we-are-in-the-pipeline",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Where we are in the pipeline",
+    "text": "Where we are in the pipeline\n\nActivity 1: Data Cleaning and Visuals\nActivity 2: Data Exploration\nActivity 3: Modeling and Forecasting\nActivity 4: Evaluation (today)\nActivity 5: Refinement (today)\n\nYou already have forecasts. Today is about finding out whether they are any good, and then doing something about it."
+  },
+  {
+    "objectID": "day3.html#resources",
+    "href": "day3.html#resources",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Resources",
+    "text": "Resources\n\nCourse repository: SISMID GitHub\nDay 1 page: Day 1: Getting Started\nDay 2 page: Day 2: Prompting and Forecasting\nCourse website (slides): [add link]"
+  },
+  {
+    "objectID": "day3.html#getting-help",
+    "href": "day3.html#getting-help",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Getting help",
+    "text": "Getting help\n\nAsk a TA during activity blocks\nPost in the course Slack channel\nLast day, so bring us the questions you have been sitting on"
+  },
+  {
+    "objectID": "day1.html",
+    "href": "day1.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Welcome to Day 1 of the course. Over the next three days (July 22 to 24) you will work as a human-AI team to build a national influenza hospitalization forecasting pipeline from real CDC data, all the way to a FluSight-ready model.\nToday is about setup and your first pass through the workflow: get GitHub and VS Code working, learn how we team with an AI assistant, then clean the data and produce your first epicurve.\nThe tools are just tools. The real work is the modeling, and you stay the expert making the decisions."
+  },
+  {
+    "objectID": "day1.html#welcome",
+    "href": "day1.html#welcome",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Welcome to Day 1 of the course. Over the next three days (July 22 to 24) you will work as a human-AI team to build a national influenza hospitalization forecasting pipeline from real CDC data, all the way to a FluSight-ready model.\nToday is about setup and your first pass through the workflow: get GitHub and VS Code working, learn how we team with an AI assistant, then clean the data and produce your first epicurve.\nThe tools are just tools. The real work is the modeling, and you stay the expert making the decisions."
+  },
+  {
+    "objectID": "day1.html#what-today-covers",
+    "href": "day1.html#what-today-covers",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "What today covers",
+    "text": "What today covers\nBy the end of today you will be able to:\n\nFork the course repository and clone it into VS Code\nInstall the R extension and set up GitHub Copilot as your AI assistant\nExplain how rules.md (written by you) and agents.md (generated by AI) fit together\nRun the Human-AI Iteration Loop end to end on the data cleaning phase\nCommit your results to your fork and open a pull request to the class repository"
+  },
+  {
+    "objectID": "day1.html#todays-flow",
+    "href": "day1.html#todays-flow",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Today’s flow",
+    "text": "Today’s flow\n\nIntroductions & Lecture 1 (Overview of Forecasting)\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "day1.html#resources",
+    "href": "day1.html#resources",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Resources",
+    "text": "Resources\n\nCourse repository: SISMID GitHub\nCourse website (slides): Course Website"
+  },
+  {
+    "objectID": "day1.html#getting-help",
+    "href": "day1.html#getting-help",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Getting help",
+    "text": "Getting help\n\nAsk a TA during activity blocks\nPost in the course Slack channel\nRemember that GitHub and VS Code are a small piece of the picture, not the focus. If something sparks your curiosity, our door is always open.\nIf you have ANY installation problems, please let us know sooner than later."
+  },
+  {
+    "objectID": "activity1.html",
+    "href": "activity1.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Forthcoming."
+  },
+  {
+    "objectID": "activity1.html#about",
+    "href": "activity1.html#about",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Forthcoming."
+  },
+  {
+    "objectID": "Overview.html",
+    "href": "Overview.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Wednesday, July 22, 1:30 PM - 5:00 PM\nThursday July 23, 9:00 AM – 5:00 PM\nFriday July 24, 9:00 AM – 5:00 PM\n\nClassroom: Randall Rollins Building 205 (RRR 205)"
+  },
+  {
+    "objectID": "Overview.html#meeting-times",
+    "href": "Overview.html#meeting-times",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Wednesday, July 22, 1:30 PM - 5:00 PM\nThursday July 23, 9:00 AM – 5:00 PM\nFriday July 24, 9:00 AM – 5:00 PM\n\nClassroom: Randall Rollins Building 205 (RRR 205)"
+  },
+  {
+    "objectID": "Overview.html#module-summary",
+    "href": "Overview.html#module-summary",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Module Summary",
+    "text": "Module Summary\nThis module introduces key concepts in infectious disease modeling alongside core principles of human–AI teaming. Students will begin with a guided walkthrough of AI prompting using an example dataset, demonstrating how to build a full forecasting pipeline step-by-step. This demo is followed by hands-on labs where students apply the same prompting strategies to a more comprehensive dataset using AI tools and basic R. Sessions integrate brief lectures with practical exercises, emphasizing how humans guide, validate, and refine AI-generated analyses—including data cleaning, visualization, model building, and forecasting."
+  },
+  {
+    "objectID": "Overview.html#prerequisites",
+    "href": "Overview.html#prerequisites",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThis module assumes a basic working knowledge of the R programming language, including running scripts, installing packages, and working with data in the R environment. Students should be comfortable navigating files and folders on their computer and have familiarity with common coding workflows. Prior experience with version control systems is not required but will be beneficial.\n\nRequired Software\nSoftware: R, RStudio, Visual Studio Code (VS Code), Git, GitHub Account, GitHub Copilot\nRequired Setup:\n\nInstall the latest versions of R and RStudio.\nInstall Visual Studio Code and the R extension.\nInstall Git and configure it for use with GitHub.\nCreate a GitHub account if you do not already have one.\nObtain access to GitHub Copilot.\n\nStudents planning to use GitHub Copilot should complete the registration process at least 72 hours before the module to allow sufficient time for account verification and activation. Students with a valid .edu email address are encouraged to apply for the GitHub Education Program, which includes access to GitHub Copilot benefits. Additional information can be found through GitHub Education.\nStudents without GitHub Education access may use the free version of GitHub Copilot, which includes usage limitations. The GitHub Copilot Pro plan is recommended for this module and includes a free trial period for eligible users. Additional details regarding software installation and configuration will be provided in the module setup materials."
+  },
+  {
+    "objectID": "Overview.html#module-content",
+    "href": "Overview.html#module-content",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Module Content",
+    "text": "Module Content\n\nOverview of infectious disease forecasting and its role in public health decision-making\nFoundations of AI and human-AI teaming, including when to use which AI tools for a given task\nIntroduction to GitHub and VS Code for reproducible, collaborative forecasting workflows\nData cleaning and preparation of surveillance data for forecasting\nEffective prompting for AI-assisted coding and analysis\nUsing rules.md files to guide and constrain AI collaborators\nHands-on forecasting labs: fitting models and generating forecasts\nOverview of forecast model evaluation\nAssessing forecast calibration and performance in practice\nAI and human-AI teaming evaluation, with iterative model refinement using AI\nIndependent free-coding, questions, and wrap-up\n\n\nData Sources\n\nOn our GitHub: https://github.com/bleicham/SISMID-2026/tree/main/USE-ME/Initial-Files/data"
+  },
+  {
+    "objectID": "Overview.html#instructors",
+    "href": "Overview.html#instructors",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Instructors",
+    "text": "Instructors\n\nLior Rennert, PhD\nDr. Lior Rennert is Associate Dean for Health Sciences in the College of Behavioral, Social, and Health Sciences, Associate Professor of Biostatistics in the Department of Public Health Sciences, and Founding Director of the Clemson Center for Public Health Modeling and Response. He received his PhD degree in Biostatistics from the University of Pennsylvania’s Pearlman School of Medicine, MS degree in Statistics from the University of Chicago, and BS in Mathematics from The Pennsylvania State University. During the COVID-19 pandemic, Dr. Rennert led Clemson’s Public Health Strategy team to provide data analytics and help guide university policy. His current work focuses on the development of data-driven approaches to guide health-related decision making. His research has led to over 90 high-impact publications in the top scientific, medical, and health journals. He has procured approximately $30 million in funding as principal investigator from the National Institutes of Health and Centers for Disease Control and Prevention. His projects aim to develop a statewide network for real-time outbreak detection, forecasting, and coordinating emergency health response. In these efforts, Dr. Rennert has helped build statewide and national collaborations between state health departments, health systems, community partners, and academic institutions in order to integrate Center research into practice and ultimately improve health outcomes across the state of South Carolina and the nation.\nEmail: liorr@clemson.edu\n\n\nNathan McNeese, PhD\nDr. Nathan J. McNeese is the Associate Vice President for Technology & Innovation, the McQueen Quattlebaum Endowed Professor of Human-Centered Computing, the Founding Director of the Clemson University Center for Human-AI Interaction, Collaboration, & Teaming, and the Founding Director of the Team Research and Analytics in Computational Environments (TRACE) Research Group at Clemson University. In his AVP role, Dr. McNeese leads university-wide initiatives in artificial intelligence (AI) strategy, research, and innovation. He previously held the CECAS Dean’s Professorship at Clemson prior to his current AVP and endowed appointments. He received a PhD in Information Sciences & Technology from The Pennsylvania State University. A pioneer in human-AI collaboration and teaming, Dr. McNeese has been instrumental in advancing human-centered approaches to AI research and system development. He has been a principal investigator or co-principal investigator for more than 30 research grants and awards, generating over $40 million in funding. He is a recipient of the prestigious NSF CAREER Award. His research work is funded by the U.S. National Science Foundation, Air Force Office of Scientific Research, Office of Naval Research, Army Research Office, Agency for Healthcare Research and Quality, Department of Education, and several other industry and state agencies. He currently serves on multiple international/societal programs and technical committees, in addition to multiple editorial boards. He has worked with the United Nations, the North Atlantic Trade Organization (NATO), and multiple other countries and international organizations to provide guidance on human-centered AI. He is a National Academy of Science, Engineering, and Medicine (NASEM) board member on the Board of Human Systems Integration (BOHSI), a previous member of multiple National Academy of Sciences initiatives and consensus studies, and a previous member of the Army Research Lab HRED Technical Advisory Board. He is the recipient of the Clemson University Researcher of the Year, the Clemson University Research, Scholarship and Artistic Achievement Award, the HFES William C. Howell Young Investigator Award, and The Pennsylvania State University College of Information Sciences & Technology Overall Outstanding Alumni Award among additional significant honors. His research has received multiple best paper awards/nominations (9 total) and has been published in top peer-reviewed human-computer interaction and human factors venues over 200 times.\nEmail: mcneese@clemson.edu\n\n\nTA: Amanda Bleichrodt, PhD\nDr. Amanda Bleichrodt is a postdoctoral fellow in the Center for Public Health Modeling and Response, specializing in infectious disease modeling and forecasting. She received her Master of Public Health from The Ohio State University, and a doctorate from Georgia State University in population health Sciences with a concentration in epidemiology. Her research interests include using AI for evaluating, refining and applying various statistical and mathematical modeling toolkits for forecasting disease outbreaks and developing user-friendly forecasting tools.\nEmail: ambleic@clemson.edu"
+  },
+  {
+    "objectID": "Overview.html#schedule",
+    "href": "Overview.html#schedule",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n9:00 - 10:30 am\n-\nActivity 1 Recap\nLecture 4: Prompting\nActivity 2: Interactive Activity & rules.md Files (begins)\nLecture 4: Overview of Model Evaluation\n\n\n10:30 - 11:00 am\n-\nBreak\nBreak\n\n\n11:00 - 12:30 pm\n-\nActivity 2: Interactive Activity & rules.md Files (continued)\nActivity 4: Model Evaluation\n\n\n12:30 - 1:30 pm\n-\nLunch Break\nLunch Break\n\n\n1:30 - 3:00 pm\nIntroductions\nLecture 1: Overview of Forecasting\nLecture 2: Introduction to AI and Human-AI Teaming\nLecture 5 (Lab): Forecasting\nActivity 3: Forecasting Lab\nLecture 5: AI/HAT Evaluation & Working with AI for Refinement\nActivity 5: Refining Models\n\n\n3:00 - 3:30 pm\nBreak\nBreak\nBreak\n\n\n3:30 - 5:00 pm\nLecture 3 (Lab): Introduction to GitHub, VS Code & Set Up\nActivity 1: Data Cleaning\nActivity 3: Forecasting Lab (continued)\nFree-Coding, Questions & Wrap-Up"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. Because most of the practicum runs through GitHub, please create a GitHub account before the Day One practicum. If you plan to work in a browser-based GitHub Codespace rather than locally, please make sure your account is set up and ready ahead of time; if you plan to work locally, please install VS Code and Git as well. Please reach out if you need any help.\nThe course materials repository has both video and written tutorials available for getting set up with GitHub, VS Code, and the AI coding assistant, and we highly recommend that both be viewed. We will also walk through the setup and Activity 1 (Data Cleaning) together during the lab on Day One of the module.\nThe Additional Resources page contains tutorials on how to create a GitHub account and launch a Codespace, set up VS Code and the AI coding assistant, download both R and RStudio, and download packages in R."
+  },
+  {
+    "objectID": "about.html#getting-started",
+    "href": "about.html#getting-started",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. Because most of the practicum runs through GitHub, please create a GitHub account before the Day One practicum. If you plan to work in a browser-based GitHub Codespace rather than locally, please make sure your account is set up and ready ahead of time; if you plan to work locally, please install VS Code and Git as well. Please reach out if you need any help.\nThe course materials repository has both video and written tutorials available for getting set up with GitHub, VS Code, and the AI coding assistant, and we highly recommend that both be viewed. We will also walk through the setup and Activity 1 (Data Cleaning) together during the lab on Day One of the module.\nThe Additional Resources page contains tutorials on how to create a GitHub account and launch a Codespace, set up VS Code and the AI coding assistant, download both R and RStudio, and download packages in R."
+  },
+  {
+    "objectID": "about.html#day-one---slides",
+    "href": "about.html#day-one---slides",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Day One - Slides",
+    "text": "Day One - Slides\n\nIntroductions & Lecture 1: Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "about.html#day-two---slides",
+    "href": "about.html#day-two---slides",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Day Two - Slides",
+    "text": "Day Two - Slides\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub\n\nLecture 2 (Continued): Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLecture 3: Prompting for AI Assisted Coding and Analysis\n\nSlides: Prompting for AI Assisted Coding and Analysis\n\nActivity 2: Data Exploration\n\nSlides: Activity 2: Data Exploration\nGitHub: SISMID GitHub\n\nLecture 1 (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity 3: Forecasting\n\nSlides: Activity 3: Forecasting\nGitHub: SISMID GitHub"
+  },
+  {
+    "objectID": "about.html#day-three---slides",
+    "href": "about.html#day-three---slides",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "Day Three - Slides",
+    "text": "Day Three - Slides\n\nLecture (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity: Evaluation\n\nSlides: Activity: Evaluation\nGitHub: SISMID GitHub\n\nLecture: Evaluating and Refining AI Outputs\n\nSlides: Evaluating and Refining AI Outputs\n\nActivity: Refinement\n\nSlides: Activity: Refinement\nGitHub: SISMID GitHub\n\nFree coding, mini forecasting challenge, and questions"
+  },
+  {
+    "objectID": "additionaDetails.html",
+    "href": "additionaDetails.html",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Link to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video\n\n\n\n\n\nLink to download VS Code: Visual Studio Code\nGetting Started Tutorial: VS Code Docs – Get Started\nVS Code Documentation: Docs\nKeyboard Shortcut Cheatsheets: Windows (PDF) | All platforms & keybindings The documentation and keybindings pages cover everything from first setup and the command palette to extensions, the integrated terminal, and per-platform shortcut references.\nVS Code Basics Tutorial Video\n\n\n\n\n\nLink to create a GitHub account: GitHub Sign Up\nLink to download Git: git-scm\nLink to download GitHub Desktop (optional): GitHub Desktop\nGitHub Tutorial(s): GitHub Skills | Get Started Guide\nGit & GitHub Cheatsheets: Git Cheat Sheet (PDF) | Cheat sheets in multiple languages GitHub Skills offers hands-on interactive courses (including the fork → branch → commit → pull request workflow), while the Get Started docs walk through account setup, repositories, and the “Hello World” basics.\nGit & GitHub Basics Tutorial Video"
+  },
+  {
+    "objectID": "additionaDetails.html#software-resources",
+    "href": "additionaDetails.html#software-resources",
+    "title": "SISMID: Human-AI Teaming",
+    "section": "",
+    "text": "Link to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video\n\n\n\n\n\nLink to download VS Code: Visual Studio Code\nGetting Started Tutorial: VS Code Docs – Get Started\nVS Code Documentation: Docs\nKeyboard Shortcut Cheatsheets: Windows (PDF) | All platforms & keybindings The documentation and keybindings pages cover everything from first setup and the command palette to extensions, the integrated terminal, and per-platform shortcut references.\nVS Code Basics Tutorial Video\n\n\n\n\n\nLink to create a GitHub account: GitHub Sign Up\nLink to download Git: git-scm\nLink to download GitHub Desktop (optional): GitHub Desktop\nGitHub Tutorial(s): GitHub Skills | Get Started Guide\nGit & GitHub Cheatsheets: Git Cheat Sheet (PDF) | Cheat sheets in multiple languages GitHub Skills offers hands-on interactive courses (including the fork → branch → commit → pull request workflow), while the Get Started docs walk through account setup, repositories, and the “Hello World” basics.\nGit & GitHub Basics Tutorial Video"
+  },
+  {
     "objectID": "day2.html",
     "href": "day2.html",
     "title": "SISMID: Human-AI Teaming",
@@ -47,159 +250,5 @@
     "title": "SISMID: Human-AI Teaming",
     "section": "Getting help",
     "text": "Getting help\n\nAsk a TA during activity blocks\nPost in the course Slack channel\nIf your setup is still fighting you, flag it now rather than losing modeling time this afternoon"
-  },
-  {
-    "objectID": "additionaDetails.html",
-    "href": "additionaDetails.html",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Link to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video\n\n\n\n\n\nLink to download VS Code: Visual Studio Code\nGetting Started Tutorial: VS Code Docs – Get Started\nVS Code Documentation: Docs\nKeyboard Shortcut Cheatsheets: Windows (PDF) | All platforms & keybindings The documentation and keybindings pages cover everything from first setup and the command palette to extensions, the integrated terminal, and per-platform shortcut references.\nVS Code Basics Tutorial Video\n\n\n\n\n\nLink to create a GitHub account: GitHub Sign Up\nLink to download Git: git-scm\nLink to download GitHub Desktop (optional): GitHub Desktop\nGitHub Tutorial(s): GitHub Skills | Get Started Guide\nGit & GitHub Cheatsheets: Git Cheat Sheet (PDF) | Cheat sheets in multiple languages GitHub Skills offers hands-on interactive courses (including the fork → branch → commit → pull request workflow), while the Get Started docs walk through account setup, repositories, and the “Hello World” basics.\nGit & GitHub Basics Tutorial Video"
-  },
-  {
-    "objectID": "additionaDetails.html#software-resources",
-    "href": "additionaDetails.html#software-resources",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Link to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video\n\n\n\n\n\nLink to download VS Code: Visual Studio Code\nGetting Started Tutorial: VS Code Docs – Get Started\nVS Code Documentation: Docs\nKeyboard Shortcut Cheatsheets: Windows (PDF) | All platforms & keybindings The documentation and keybindings pages cover everything from first setup and the command palette to extensions, the integrated terminal, and per-platform shortcut references.\nVS Code Basics Tutorial Video\n\n\n\n\n\nLink to create a GitHub account: GitHub Sign Up\nLink to download Git: git-scm\nLink to download GitHub Desktop (optional): GitHub Desktop\nGitHub Tutorial(s): GitHub Skills | Get Started Guide\nGit & GitHub Cheatsheets: Git Cheat Sheet (PDF) | Cheat sheets in multiple languages GitHub Skills offers hands-on interactive courses (including the fork → branch → commit → pull request workflow), while the Get Started docs walk through account setup, repositories, and the “Hello World” basics.\nGit & GitHub Basics Tutorial Video"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Please download the software specified on the Overview page as soon as possible. Because most of the practicum runs through GitHub, please create a GitHub account before the Day One practicum. If you plan to work in a browser-based GitHub Codespace rather than locally, please make sure your account is set up and ready ahead of time; if you plan to work locally, please install VS Code and Git as well. Please reach out if you need any help.\nThe course materials repository has both video and written tutorials available for getting set up with GitHub, VS Code, and the AI coding assistant, and we highly recommend that both be viewed. We will also walk through the setup and Activity 1 (Data Cleaning) together during the lab on Day One of the module.\nThe Additional Resources page contains tutorials on how to create a GitHub account and launch a Codespace, set up VS Code and the AI coding assistant, download both R and RStudio, and download packages in R."
-  },
-  {
-    "objectID": "about.html#getting-started",
-    "href": "about.html#getting-started",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Please download the software specified on the Overview page as soon as possible. Because most of the practicum runs through GitHub, please create a GitHub account before the Day One practicum. If you plan to work in a browser-based GitHub Codespace rather than locally, please make sure your account is set up and ready ahead of time; if you plan to work locally, please install VS Code and Git as well. Please reach out if you need any help.\nThe course materials repository has both video and written tutorials available for getting set up with GitHub, VS Code, and the AI coding assistant, and we highly recommend that both be viewed. We will also walk through the setup and Activity 1 (Data Cleaning) together during the lab on Day One of the module.\nThe Additional Resources page contains tutorials on how to create a GitHub account and launch a Codespace, set up VS Code and the AI coding assistant, download both R and RStudio, and download packages in R."
-  },
-  {
-    "objectID": "about.html#day-one---slides",
-    "href": "about.html#day-one---slides",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Day One - Slides",
-    "text": "Day One - Slides\n\nIntroductions & Lecture 1: Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
-  },
-  {
-    "objectID": "about.html#day-two---slides",
-    "href": "about.html#day-two---slides",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Day Two - Slides",
-    "text": "Day Two - Slides\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub\n\nLecture 2 (Continued): Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLecture 3: Prompting for AI Assisted Coding and Analysis\n\nSlides: Prompting for AI Assisted Coding and Analysis\n\nActivity 2: Data Exploration\n\nSlides: Activity 2: Data Exploration\nGitHub: SISMID GitHub\n\nLecture 1 (Continued): Overview of Forecasting\n\nSlides: Introduction to Infectious Disease Forecasting\n\nActivity 3: Forecasting\n\nSlides: Activity 3: Forecasting\nGitHub: SISMID GitHub"
-  },
-  {
-    "objectID": "about.html#additional-slides",
-    "href": "about.html#additional-slides",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Additional Slides",
-    "text": "Additional Slides\nForthcoming."
-  },
-  {
-    "objectID": "Overview.html",
-    "href": "Overview.html",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Wednesday, July 22, 1:30 PM - 5:00 PM\nThursday July 23, 9:00 AM – 5:00 PM\nFriday July 24, 9:00 AM – 5:00 PM\n\nClassroom: Randall Rollins Building 205 (RRR 205)"
-  },
-  {
-    "objectID": "Overview.html#meeting-times",
-    "href": "Overview.html#meeting-times",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Wednesday, July 22, 1:30 PM - 5:00 PM\nThursday July 23, 9:00 AM – 5:00 PM\nFriday July 24, 9:00 AM – 5:00 PM\n\nClassroom: Randall Rollins Building 205 (RRR 205)"
-  },
-  {
-    "objectID": "Overview.html#module-summary",
-    "href": "Overview.html#module-summary",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Module Summary",
-    "text": "Module Summary\nThis module introduces key concepts in infectious disease modeling alongside core principles of human–AI teaming. Students will begin with a guided walkthrough of AI prompting using an example dataset, demonstrating how to build a full forecasting pipeline step-by-step. This demo is followed by hands-on labs where students apply the same prompting strategies to a more comprehensive dataset using AI tools and basic R. Sessions integrate brief lectures with practical exercises, emphasizing how humans guide, validate, and refine AI-generated analyses—including data cleaning, visualization, model building, and forecasting."
-  },
-  {
-    "objectID": "Overview.html#prerequisites",
-    "href": "Overview.html#prerequisites",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nThis module assumes a basic working knowledge of the R programming language, including running scripts, installing packages, and working with data in the R environment. Students should be comfortable navigating files and folders on their computer and have familiarity with common coding workflows. Prior experience with version control systems is not required but will be beneficial.\n\nRequired Software\nSoftware: R, RStudio, Visual Studio Code (VS Code), Git, GitHub Account, GitHub Copilot\nRequired Setup:\n\nInstall the latest versions of R and RStudio.\nInstall Visual Studio Code and the R extension.\nInstall Git and configure it for use with GitHub.\nCreate a GitHub account if you do not already have one.\nObtain access to GitHub Copilot.\n\nStudents planning to use GitHub Copilot should complete the registration process at least 72 hours before the module to allow sufficient time for account verification and activation. Students with a valid .edu email address are encouraged to apply for the GitHub Education Program, which includes access to GitHub Copilot benefits. Additional information can be found through GitHub Education.\nStudents without GitHub Education access may use the free version of GitHub Copilot, which includes usage limitations. The GitHub Copilot Pro plan is recommended for this module and includes a free trial period for eligible users. Additional details regarding software installation and configuration will be provided in the module setup materials."
-  },
-  {
-    "objectID": "Overview.html#module-content",
-    "href": "Overview.html#module-content",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Module Content",
-    "text": "Module Content\n\nOverview of infectious disease forecasting and its role in public health decision-making\nFoundations of AI and human-AI teaming, including when to use which AI tools for a given task\nIntroduction to GitHub and VS Code for reproducible, collaborative forecasting workflows\nData cleaning and preparation of surveillance data for forecasting\nEffective prompting for AI-assisted coding and analysis\nUsing rules.md files to guide and constrain AI collaborators\nHands-on forecasting labs: fitting models and generating forecasts\nOverview of forecast model evaluation\nAssessing forecast calibration and performance in practice\nAI and human-AI teaming evaluation, with iterative model refinement using AI\nIndependent free-coding, questions, and wrap-up"
-  },
-  {
-    "objectID": "Overview.html#instructors",
-    "href": "Overview.html#instructors",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Instructors",
-    "text": "Instructors\n\nLior Rennert, PhD\nDr. Lior Rennert is Associate Dean for Health Sciences in the College of Behavioral, Social, and Health Sciences, Associate Professor of Biostatistics in the Department of Public Health Sciences, and Founding Director of the Clemson Center for Public Health Modeling and Response. He received his PhD degree in Biostatistics from the University of Pennsylvania’s Pearlman School of Medicine, MS degree in Statistics from the University of Chicago, and BS in Mathematics from The Pennsylvania State University. During the COVID-19 pandemic, Dr. Rennert led Clemson’s Public Health Strategy team to provide data analytics and help guide university policy. His current work focuses on the development of data-driven approaches to guide health-related decision making. His research has led to over 90 high-impact publications in the top scientific, medical, and health journals. He has procured approximately $30 million in funding as principal investigator from the National Institutes of Health and Centers for Disease Control and Prevention. His projects aim to develop a statewide network for real-time outbreak detection, forecasting, and coordinating emergency health response. In these efforts, Dr. Rennert has helped build statewide and national collaborations between state health departments, health systems, community partners, and academic institutions in order to integrate Center research into practice and ultimately improve health outcomes across the state of South Carolina and the nation.\nEmail: liorr@clemson.edu\n\n\nNathan McNeese, PhD\nDr. Nathan J. McNeese is the Associate Vice President for Technology & Innovation, the McQueen Quattlebaum Endowed Professor of Human-Centered Computing, the Founding Director of the Clemson University Center for Human-AI Interaction, Collaboration, & Teaming, and the Founding Director of the Team Research and Analytics in Computational Environments (TRACE) Research Group at Clemson University. In his AVP role, Dr. McNeese leads university-wide initiatives in artificial intelligence (AI) strategy, research, and innovation. He previously held the CECAS Dean’s Professorship at Clemson prior to his current AVP and endowed appointments. He received a PhD in Information Sciences & Technology from The Pennsylvania State University. A pioneer in human-AI collaboration and teaming, Dr. McNeese has been instrumental in advancing human-centered approaches to AI research and system development. He has been a principal investigator or co-principal investigator for more than 30 research grants and awards, generating over $40 million in funding. He is a recipient of the prestigious NSF CAREER Award. His research work is funded by the U.S. National Science Foundation, Air Force Office of Scientific Research, Office of Naval Research, Army Research Office, Agency for Healthcare Research and Quality, Department of Education, and several other industry and state agencies. He currently serves on multiple international/societal programs and technical committees, in addition to multiple editorial boards. He has worked with the United Nations, the North Atlantic Trade Organization (NATO), and multiple other countries and international organizations to provide guidance on human-centered AI. He is a National Academy of Science, Engineering, and Medicine (NASEM) board member on the Board of Human Systems Integration (BOHSI), a previous member of multiple National Academy of Sciences initiatives and consensus studies, and a previous member of the Army Research Lab HRED Technical Advisory Board. He is the recipient of the Clemson University Researcher of the Year, the Clemson University Research, Scholarship and Artistic Achievement Award, the HFES William C. Howell Young Investigator Award, and The Pennsylvania State University College of Information Sciences & Technology Overall Outstanding Alumni Award among additional significant honors. His research has received multiple best paper awards/nominations (9 total) and has been published in top peer-reviewed human-computer interaction and human factors venues over 200 times.\nEmail: mcneese@clemson.edu\n\n\nTA: Amanda Bleichrodt, PhD\nDr. Amanda Bleichrodt is a postdoctoral fellow in the Center for Public Health Modeling and Response, specializing in infectious disease modeling and forecasting. She received her Master of Public Health from The Ohio State University, and a doctorate from Georgia State University in population health Sciences with a concentration in epidemiology. Her research interests include using AI for evaluating, refining and applying various statistical and mathematical modeling toolkits for forecasting disease outbreaks and developing user-friendly forecasting tools.\nEmail: ambleic@clemson.edu"
-  },
-  {
-    "objectID": "Overview.html#schedule",
-    "href": "Overview.html#schedule",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n9:00 - 10:30 am\n-\nActivity 1 Recap\nLecture 4: Prompting\nActivity 2: Interactive Activity & rules.md Files (begins)\nLecture 4: Overview of Model Evaluation\n\n\n10:30 - 11:00 am\n-\nBreak\nBreak\n\n\n11:00 - 12:30 pm\n-\nActivity 2: Interactive Activity & rules.md Files (continued)\nActivity 4: Model Evaluation\n\n\n12:30 - 1:30 pm\n-\nLunch Break\nLunch Break\n\n\n1:30 - 3:00 pm\nIntroductions\nLecture 1: Overview of Forecasting\nLecture 2: Introduction to AI and Human-AI Teaming\nLecture 5 (Lab): Forecasting\nActivity 3: Forecasting Lab\nLecture 5: AI/HAT Evaluation & Working with AI for Refinement\nActivity 5: Refining Models\n\n\n3:00 - 3:30 pm\nBreak\nBreak\nBreak\n\n\n3:30 - 5:00 pm\nLecture 3 (Lab): Introduction to GitHub, VS Code & Set Up\nActivity 1: Data Cleaning\nActivity 3: Forecasting Lab (continued)\nFree-Coding, Questions & Wrap-Up"
-  },
-  {
-    "objectID": "activity1.html",
-    "href": "activity1.html",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Forthcoming."
-  },
-  {
-    "objectID": "activity1.html#about",
-    "href": "activity1.html#about",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Forthcoming."
-  },
-  {
-    "objectID": "day1.html",
-    "href": "day1.html",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Welcome to Day 1 of the course. Over the next three days (July 22 to 24) you will work as a human-AI team to build a national influenza hospitalization forecasting pipeline from real CDC data, all the way to a FluSight-ready model.\nToday is about setup and your first pass through the workflow: get GitHub and VS Code working, learn how we team with an AI assistant, then clean the data and produce your first epicurve.\nThe tools are just tools. The real work is the modeling, and you stay the expert making the decisions."
-  },
-  {
-    "objectID": "day1.html#welcome",
-    "href": "day1.html#welcome",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "",
-    "text": "Welcome to Day 1 of the course. Over the next three days (July 22 to 24) you will work as a human-AI team to build a national influenza hospitalization forecasting pipeline from real CDC data, all the way to a FluSight-ready model.\nToday is about setup and your first pass through the workflow: get GitHub and VS Code working, learn how we team with an AI assistant, then clean the data and produce your first epicurve.\nThe tools are just tools. The real work is the modeling, and you stay the expert making the decisions."
-  },
-  {
-    "objectID": "day1.html#what-today-covers",
-    "href": "day1.html#what-today-covers",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "What today covers",
-    "text": "What today covers\nBy the end of today you will be able to:\n\nFork the course repository and clone it into VS Code\nInstall the R extension and set up GitHub Copilot as your AI assistant\nExplain how rules.md (written by you) and agents.md (generated by AI) fit together\nRun the Human-AI Iteration Loop end to end on the data cleaning phase\nCommit your results to your fork and open a pull request to the class repository"
-  },
-  {
-    "objectID": "day1.html#todays-flow",
-    "href": "day1.html#todays-flow",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Today’s flow",
-    "text": "Today’s flow\n\nIntroductions & Lecture 1 (Overview of Forecasting)\n\nSlides: Introduction to Infectious Disease Forecasting\n\nLecture 2: Introduction to AI and Human-AI Teaming\n\nSlides: Introduction to AI and Human-AI Teaming\n\nLab overview and Orientation\n\nSlides: Lab Overview\nGitHub: SISMID GitHub\n\nIntroduction to GitHub, including forking the course repository\n\nSlides: Intro to GitHub\nGitHub: SISMID GitHub\n\nIntroduction to VS Code: R extension, GitHub Copilot, cloning your fork, and your working directory\n\nSlides: Intro to VS Code\nGitHub: SISMID GitHub\n\nActivity 1: Data Cleaning and Visuals\n\nSlides: Activity 1: Data Cleaning and Visuals\nGitHub: SISMID GitHub\n\nGitHub commits and pull requests\n\nSlides: GitHub Commits & Pull Requests\nGitHub: SISMID GitHub"
-  },
-  {
-    "objectID": "day1.html#resources",
-    "href": "day1.html#resources",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Resources",
-    "text": "Resources\n\nCourse repository: SISMID GitHub\nCourse website (slides): Course Website"
-  },
-  {
-    "objectID": "day1.html#getting-help",
-    "href": "day1.html#getting-help",
-    "title": "SISMID: Human-AI Teaming",
-    "section": "Getting help",
-    "text": "Getting help\n\nAsk a TA during activity blocks\nPost in the course Slack channel\nRemember that GitHub and VS Code are a small piece of the picture, not the focus. If something sparks your curiosity, our door is always open.\nIf you have ANY installation problems, please let us know sooner than later."
   }
 ]

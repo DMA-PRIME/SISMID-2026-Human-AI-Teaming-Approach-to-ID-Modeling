@@ -1,0 +1,59 @@
+---
+title: ""
+---
+
+## Welcome
+
+Today we dive into the wonderful world of evaluation and model refinement. We
+will cover various types of evaluation, ranging from AI outputs to forecasts,
+and by the end of today we will each have unique models to submit to our mini
+forecasting challenge.
+
+## What today covers
+
+By the end of today you will be able to:
+
+- Interpret the core forecast metrics: MAE, 95% PI coverage, interval score, and WIS
+- Score your forecasts with the scoringutils package rather than hand-coding the formulas
+- Judge whether an AI output is correct, supported, and appropriate before you rely on it
+- Revise AI output deliberately by naming the failing component instead of asking for a new answer
+- Refine your model with a leading indicator or a different model type, and decide from evidence whether to keep the change
+- Produce FluSight-format forecasts and submit them to the class challenge
+
+## Today's flow
+
+1. Lecture (Continued): Overview of Forecasting
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction%20to%20Infectious%20Disease%20Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
+2.  Activity: Evaluation
+    - Slides: [Activity: Evaluation](Powerpoints/04_evaluation.pdf){download="04_evaluation.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+3.  Lecture: Evaluating and Refining AI Outputs
+    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf"}
+4.  Activity: Refinement
+    - Slides: [Activity: Refinement](Powerpoints/05_Incremental_Revisions.pdf){download="05_Incremental_Revisions.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+5.  Free coding, mini forecasting challenge, and questions
+
+## Where we are in the pipeline
+
+- Activity 1: Data Cleaning and Visuals
+- Activity 2: Data Exploration
+- Activity 3: Modeling and Forecasting
+- Activity 4: Evaluation (today)
+- Activity 5: Refinement (today)
+
+You already have forecasts. Today is about finding out whether they are any
+good, and then doing something about it.
+
+## Resources
+
+- Course repository: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+- Day 1 page: [Day 1: Getting Started](day1.qmd)
+- Day 2 page: [Day 2: Prompting and Forecasting](day2.qmd)
+- Course website (slides): [add link]
+
+## Getting help
+
+- Ask a TA during activity blocks
+- Post in the course Slack channel
+- Last day, so bring us the questions you have been sitting on

@@ -84,6 +84,24 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
     - Slides: [Activity 3: Forecasting](Powerpoints/03_forecast.pdf){download="03_forecast.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)    
 
-## Additional Slides
+## Day Three - Slides
 
-Forthcoming.
+1. Lecture (Continued): Overview of Forecasting
+
+    - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction to Infectious Disease Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
+    
+2.  Activity: Evaluation
+
+    - Slides: [Activity: Evaluation](Powerpoints/04_evaluation.pdf){download="04_evaluation.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+    
+3.  Lecture: Evaluating and Refining AI Outputs
+
+    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf"}
+    
+4.  Activity: Refinement
+
+    - Slides: [Activity: Refinement](Powerpoints/05_Incremental_Revisions.pdf){download="05_Incremental_Revisions.pdf"}
+    - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+    
+5.  Free coding, mini forecasting challenge, and questions

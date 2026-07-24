@@ -52,6 +52,10 @@ Students without GitHub Education access may use the free version of GitHub Copi
 - AI and human-AI teaming evaluation, with iterative model refinement using AI
 - Independent free-coding, questions, and wrap-up
 
+### Data Sources
+
+- On our GitHub: [https://github.com/bleicham/SISMID-2026/tree/main/USE-ME/Initial-Files/data](https://github.com/bleicham/SISMID-2026/tree/main/USE-ME/Initial-Files/data)
+
 ## Instructors
 
 ### Lior Rennert, PhD
