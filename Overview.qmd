@@ -55,6 +55,9 @@ Students without GitHub Education access may use the free version of GitHub Copi
 ### Data Sources
 
 - On our GitHub: [https://github.com/bleicham/SISMID-2026/tree/main/USE-ME/Initial-Files/data](https://github.com/bleicham/SISMID-2026/tree/main/USE-ME/Initial-Files/data)
+- CDC(NHSN): [https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/ua7e-t2fy/about_data](https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/ua7e-t2fy/about_data)
+- CDC(NSSP): [https://data.cdc.gov/Public-Health-Surveillance/NSSP-Emergency-Department-Visit-Trajectories-by-St/rdmq-nq56/about_data](https://data.cdc.gov/Public-Health-Surveillance/NSSP-Emergency-Department-Visit-Trajectories-by-St/rdmq-nq56/about_data)
+- CDC National Wastewater Data for Respiratory Viruses: [https://www.cdc.gov/wastewater/respiratory-viruses/national.html](https://www.cdc.gov/wastewater/respiratory-viruses/national.html)
 
 ## Instructors
 
