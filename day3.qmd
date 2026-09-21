@@ -23,15 +23,23 @@ By the end of today you will be able to:
 ## Today's flow
 
 1. Lecture (Continued): Overview of Forecasting
+
     - Slides: [Introduction to Infectious Disease Forecasting](Powerpoints/Introduction%20to%20Infectious%20Disease%20Forecasting.pdf){download="Introduction to Infectious Disease Forecasting.pdf"}
+
 2.  Activity: Evaluation
+
     - Slides: [Activity: Evaluation](Powerpoints/04_evaluation.pdf){download="04_evaluation.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
 3.  Lecture: Evaluating and Refining AI Outputs
-    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf"}
+
+    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese_Evaluation_and_Revision.pdf"}
+
 4.  Activity: Refinement
+
     - Slides: [Activity: Refinement](Powerpoints/05_Incremental_Revisions.pdf){download="05_Incremental_Revisions.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
+
 5.  Free coding, mini forecasting challenge, and questions
 
 ## Where we are in the pipeline
@@ -50,7 +58,6 @@ good, and then doing something about it.
 - Course repository: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
 - Day 1 page: [Day 1: Getting Started](day1.qmd)
 - Day 2 page: [Day 2: Prompting and Forecasting](day2.qmd)
-- Course website (slides): [add link]
 
 ## Getting help
 
