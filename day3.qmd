@@ -33,7 +33,7 @@ By the end of today you will be able to:
 
 3.  Lecture: Evaluating and Refining AI Outputs
 
-    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese_Evaluation_and_Revision.pdf"}
+    - Slides: [Evaluating and Refining AI Outputs](Powerpoints/03_AI_HAT_Evaluation_and_Refinement_McNeese_Evaluation_and_Revision.pdf){download="03_AI_HAT_Evaluation_and_Refinement_McNeese_Evaluation_and_Revision.pdf"}
 
 4.  Activity: Refinement
 
