@@ -47,7 +47,7 @@ By the end of today you will be able to:
     
 6.  Activity 2: Data Exploration
 
-    - Slides: [Activity 2: Data Exploration](Powerpoints/02_data explore.pdf){download="02_data_explore.pdf"}
+    - Slides: [Activity 2: Data Exploration](Powerpoints/02_data_explore.pdf){download="02_data_explore.pdf"}
     - GitHub: [SISMID GitHub](https://github.com/bleicham/SISMID-2026)
     
 7.  Lecture 1 (Continued): Overview of Forecasting
